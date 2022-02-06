@@ -12,7 +12,7 @@ With my background in engineering, managing projects by profession and recent ex
 - Process API to retrieve current Weather Data - Python Refresher
 - Credit Card Fraud detection using Machine Learning Techniques
 - My First Animated ggplot in R
-- 120 years of Olympic History and Results - Exploratory Data Analysis
+- 120 Years of Olympic History and Results - Exploratory Data Analysis
 - Climate Change - Historical Average Temperatures / Future Projections
 - Consumer Reviews on Amazon.com - Data Mining
 - Airline Safety - Dashboard, Blog, and InfoGraphic - Data Visualization
