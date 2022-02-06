@@ -8,7 +8,6 @@ With my background in engineering, managing projects by profession and recent ex
 
 ### Project Portfolio
 
-```markdown
 - Big Data Processing Framework - Hadoop in Data Science Projects
 - Python Refresher - Process API to retrieve current Weather Data
 - Credit Card Fraud detection using Machine Learning Techniques
@@ -21,7 +20,6 @@ With my background in engineering, managing projects by profession and recent ex
 - IMDB Movie Reviews with Ratings - Text Mining
 - Microsoft Stock Price Prediction - Time Series Analysis
 - Applied Data Science Project No. 3
-```
 
 ### Support or Contact
 
