@@ -12,11 +12,11 @@ With my background in engineering, managing projects by profession and recent ex
 - Python Refresher - Process API to retrieve current Weather Data
 - Credit Card Fraud detection using Machine Learning Techniques
 - My First Animated ggplot in R
-- 120 years of Olympic History - Athletes / Results - Exploratory Data Analysis
-- Climate Change - Historical Average Temperatures and Future Projections
-- Consumer Reviews on Amazon.com - Understanding the Customer Feedback - Data Mining
+- 120 years of Olympic History - Athletes Results - Exploratory Data Analysis
+- Climate Change - Historical Average Temperatures / Future Projections
+- Consumer Reviews on Amazon.com - Data Mining
 - Airline Safety - Dashboard, Blog, and InfoGraphic - Data Visualization
-- Big Data on Social Media and Geomapping - Performance, reliability, and Scalability
+- Big Data on Social Media and Geomapping - Performance, reliability, Scalability
 - IMDB Movie Reviews with Ratings - Text Mining
 - Microsoft Stock Price Prediction - Time Series Analysis
 - Applied Data Science Project No. 3
