@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to nextgen Portfolio
 
-You can use the [editor on GitHub](https://github.com/mkalka1/mkalka1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+#### About me
+
+Currently located about 25 miles southwest of Houston, TX, I work for Discover Financial Services, company that owns the Discover Card. While managing enterprise wide programs to make difference within Payment Industry, we deal with the transactional data on the every day basis. This is what motivated me to explore world of Data Science and Artificial Intelligence.
+
+With my background in engineering, managing projects by profession and recent exposure to the area of machine learning, I am excited to share my next generation portfolio for you all to explore the power of predictive analytics.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
