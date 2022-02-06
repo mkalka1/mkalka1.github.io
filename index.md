@@ -10,15 +10,15 @@ With my background in engineering, managing projects by profession and recent ex
 
 ```markdown
 - Big Data Processing Framework - Hadoop in Data Science Projects
-- Python Programming Refresher - Process weather API to retrieve current Weather Data
+- Python Refresher - Process API to retrieve current Weather Data
 - Credit Card Fraud detection using Machine Learning Techniques
 - My First Animated ggplot in R
-- Exploratory Data Analysis - 120 years of Olympic History - Athletes and Results
-- Data Preparation - Climate Change - Historical Average Temperatures and Future Projections
-- Data Mining - Consumer Reviews on Amazon.com - Understanding the Customer Feedback
-- Data Visualization - Airline Safety - Dashboard, Blog, and InfoGraphic
-- Big Data on Social Media and Geomapping - Computer performance, reliability, and Scalability
-- IMDB Movie Reviews with Ratings - Text Analysis and Predictive Analytics
+- 120 years of Olympic History - Athletes / Results - Exploratory Data Analysis
+- Climate Change - Historical Average Temperatures and Future Projections
+- Consumer Reviews on Amazon.com - Understanding the Customer Feedback - Data Mining
+- Airline Safety - Dashboard, Blog, and InfoGraphic - Data Visualization
+- Big Data on Social Media and Geomapping - Performance, reliability, and Scalability
+- IMDB Movie Reviews with Ratings - Text Mining
 - Microsoft Stock Price Prediction - Time Series Analysis
 - Applied Data Science Project No. 3
 ```
