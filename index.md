@@ -9,11 +9,11 @@ With my background in engineering, managing projects by profession and recent ex
 ### Project Portfolio
 
 - Big Data Processing Framework - Hadoop in Data Science Projects
-- Python Refresher - Process API to retrieve current Weather Data
+- Process API to retrieve current Weather Data - Python Refresher
 - Credit Card Fraud detection using Machine Learning Techniques
 - My First Animated ggplot in R
 - 120 years of Olympic History and Results - Exploratory Data Analysis
-- Climate Change - Historical Average Temperatures / Future Projections
+- Climate Change - Historical Average Temperatures and Future Projections
 - Consumer Reviews on Amazon.com - Data Mining
 - Airline Safety - Dashboard, Blog, and InfoGraphic - Data Visualization
 - Big Data on Social Media - Performance, reliability, Scalability
