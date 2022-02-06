@@ -8,17 +8,17 @@ With my background in engineering, managing projects by profession and recent ex
 
 ### Project Portfolio
 
-- Big Data Processing Framework - Hadoop in Data Science Projects
-- Process API to retrieve current Weather Data - Python Refresher
-- Credit Card Fraud detection using Machine Learning Techniques
-- My First Animated ggplot in R
 - 120 Years of Olympic History and Results - Exploratory Data Analysis
+- Airline Safety - Dashboard, Blog, and InfoGraphic - Data Visualization
+- Big Data Processing Framework - Hadoop in Data Science Projects
+- Big Data on Social Media - Performance, reliability, Scalability
 - Climate Change - Historical Average Temperatures / Future Projections
 - Consumer Reviews on Amazon.com - Data Mining
-- Airline Safety - Dashboard, Blog, and InfoGraphic - Data Visualization
-- Big Data on Social Media - Performance, reliability, Scalability
+- Credit Card Fraud detection using Machine Learning Techniques
 - IMDB Movie Reviews with Ratings - Text Mining
 - Microsoft Stock Price Prediction - Time Series Analysis
+- My First Animated ggplot in R
+- Process API to retrieve current Weather Data - Python Refresher
 - Applied Data Science Project No. 3
 
 ### Support or Contact
