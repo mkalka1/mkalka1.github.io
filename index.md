@@ -31,7 +31,7 @@ Management / Technology professional with proven ability to lead Strategic Initi
   <table>
     <tr>
       <td>
-        First Name
+        First Name:
       </td>
       <td>
          <input type="text" name="firstname">
@@ -39,7 +39,7 @@ Management / Technology professional with proven ability to lead Strategic Initi
     </tr>
     <tr>
       <td>
-        Last Name
+        Last Name:
       </td>
       <td>
          <input type="text" name="lastname">
@@ -54,7 +54,7 @@ Management / Technology professional with proven ability to lead Strategic Initi
       </td> 
     </tr>    
     <tr>
-      <td>
+      <td valign="top">
         Message:
       </td>
       <td>
@@ -62,6 +62,9 @@ Management / Technology professional with proven ability to lead Strategic Initi
       </td>  
     </tr>
     <tr>
+      <td>
+        &nbsp;
+      </td>      
       <td>
         <input type="submit" name="send" value="Send">
       </td>
