@@ -6,10 +6,6 @@ Currently located about 25 miles southwest of Houston, TX, I work for Discover F
 
 With my background in engineering, management by profession and recently acquired expertise in the area of machine learning, I am excited to share my next generation portfolio for you all to explore the power of predictive analytics.
 
-### Professional Background
-
-Management / Technology professional with proven ability to lead strategic initiatives for about 20+ years within Financial/Payment Industry, Healthcare, Oil & Gas. Strong experience in enterprise-wide Transformation Programs using LEAN principles and by applying Project / Program Management, Process Improvement and Change Management skills. Effective Relationship Management, Conflict Management / Negotiation skills to achieve Corporate Profitability. Expertise in providing strategic direction, coaching / mentoring, and professional development of the team.
-
 ### Project Portfolio
 
 - [120 Years of Olympic History and Results - Exploratory Data Analysis](https://github.com/mkalka1/nextgen-portfolio/tree/main/120%20Years%20of%20Olympic%20History%20and%20Results%20-%20Exploratory%20Data%20Analysis)
@@ -24,6 +20,10 @@ Management / Technology professional with proven ability to lead strategic initi
 - [Microsoft Stock Price Prediction - Time Series Analysis](https://github.com/mkalka1/nextgen-portfolio/tree/main/Microsoft%20Stock%20Price%20Prediction%20-%20Time%20Series%20Analysis)
 - [My First Animated ggplot in R](https://github.com/mkalka1/nextgen-portfolio/tree/main/My%20First%20Animated%20ggplot%20in%20R)
 - [Process API to retrieve current Weather Data - Python Refresher](https://github.com/mkalka1/nextgen-portfolio/tree/main/Process%20API%20to%20retrieve%20current%20Weather%20Data%20-%20Python%20Refresher)
+
+### Professional Background
+
+Management / Technology professional with proven ability to lead strategic initiatives for about 20+ years within Financial/Payment Industry, Healthcare, Oil & Gas. Strong experience in enterprise-wide Transformation Programs using LEAN principles and by applying Project / Program Management, Process Improvement and Change Management skills. Effective Relationship Management, Conflict Management / Negotiation skills to achieve Corporate Profitability. Expertise in providing strategic direction, coaching / mentoring, and professional development of the team.
 
 ### Contact
 
