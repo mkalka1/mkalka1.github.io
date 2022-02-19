@@ -28,11 +28,45 @@ Management / Technology professional with proven ability to lead Strategic Initi
 ### Contact
 
 <form name ="input" method="POST" action="https://formspree.io/f/xoqrdkkv">
-  Email: <input type="email" name="_replyto">
-  <br>
-  Message: <textarea name="message"></textarea>
-  <br>
-  <input type="submit" name="send" value="Send">
+  <table>
+    <tr>
+      <td>
+        First Name
+      </td>
+      <td>
+         <input type="text" name="firstname">
+      </td> 
+    </tr>
+    <tr>
+      <td>
+        Last Name
+      </td>
+      <td>
+         <input type="text" name="lastname">
+      </td> 
+    </tr>
+    <tr>
+      <td>
+        Email:
+      </td>
+      <td>
+         <input type="email" name="_replyto">
+      </td> 
+    </tr>    
+    <tr>
+      <td>
+        Message:
+      </td>
+      <td>
+        <textarea name="message"></textarea>
+      </td>  
+    </tr>
+    <tr>
+      <td>
+        <input type="submit" name="send" value="Send">
+      </td>
+    </tr>    
+  </table>
 </form>
 
 
