@@ -8,7 +8,7 @@ With my background in engineering, management by profession and recently acquire
 
 ### Professional Background
 
-Management / Technology professional with proven ability to lead Strategic Initiatives for about 20+ years within Financial/Payment Industry, Healthcare, Oil & Gas. Strong experience in enterprise-wide Transformation Programs using LEAN principles and by applying Project / Program Management, Process Improvement and Change Management skills. Effective Relationship Management, Conflict Management / Negotiation skills to achieve Corporate Profitability. Expertise in providing strategic direction, coaching / mentoring, and professional development to the team.
+Management / Technology professional with proven ability to lead Strategic Initiatives for about 20+ years within Financial/Payment Industry, Healthcare, Oil & Gas. Strong experience in enterprise-wide Transformation Programs using LEAN principles and by applying Project / Program Management, Process Improvement and Change Management skills. Effective Relationship Management, Conflict Management / Negotiation skills to achieve Corporate Profitability. Expertise in providing strategic direction, coaching / mentoring, and professional development of the team.
 
 ### Project Portfolio
 
