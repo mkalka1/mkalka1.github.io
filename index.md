@@ -8,7 +8,7 @@ With my background in engineering, managing projects by profession and recent ex
 
 ### Project Portfolio
 
-- [120 Years of Olympic History and Results - Exploratory Data Analysis](https://github.com/mkalka1/nextgen-portfolio)
+- [120 Years of Olympic History and Results - Exploratory Data Analysis](https://github.com/mkalka1/nextgen-portfolio/tree/main/120%20Years%20of%20Olympic%20History%20and%20Results%20-%20Exploratory%20Data%20Analysis)
 - Airline Safety - Dashboard, Blog, and InfoGraphic - Data Visualization
 - Big Data Processing Framework - Hadoop in Data Science Projects
 - Big Data on Social Media - Performance, reliability, Scalability
