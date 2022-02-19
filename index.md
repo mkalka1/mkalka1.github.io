@@ -27,9 +27,6 @@ Management / Technology professional with proven ability to lead Strategic Initi
 
 ### Contact
 
-<head>
-  <meta name="referrer" content="origin" />
-</head>
 <form name ="input" method="POST" action="https://formspree.io/mkalkar@gmail.com">
   Email: <input type="email" name="_replyto">
   <br>
