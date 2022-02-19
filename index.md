@@ -2,7 +2,7 @@
 
 ### About me
 
-Currently located about 25 miles southwest of Houston, TX, I work for Discover Financial Services, company that primarily known for the Discover Card and its expansion into Consumer Banking, Home Loans and Student Loans. While managing enterprise wide programs to make difference within Payment Industry, we deal with the transactional data on the every day basis. This is what motivated me to explore world of Data Science and Artificial Intelligence.
+Currently located about 25 miles southwest of Houston, TX, I work for Discover Financial Services, company that primarily known for the Discover Card and its expansion into Debit Network (PULSE), Consumer Banking, Home Loans and Student Loans. While managing enterprise wide programs to make difference within Payment Industry, we deal with the transactional data on the every day basis. This is what motivated me to explore world of Data Science and Artificial Intelligence.
 
 With my background in engineering, management by profession and recently acquired expertise in the area of machine learning, I am excited to share my next generation portfolio for you all to explore the power of predictive analytics.
 
