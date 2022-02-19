@@ -25,6 +25,10 @@ Management / Technology professional with proven ability to lead Strategic Initi
 - [My First Animated ggplot in R](https://github.com/mkalka1/nextgen-portfolio/tree/main/My%20First%20Animated%20ggplot%20in%20R)
 - [Process API to retrieve current Weather Data - Python Refresher](https://github.com/mkalka1/nextgen-portfolio/tree/main/Process%20API%20to%20retrieve%20current%20Weather%20Data%20-%20Python%20Refresher)
 
-### Support or Contact
+### Contact
+
+<form action="http://formspree.io/mkalkar@gmail.com"><input type="email" name="_replyto"><textarea name="body"></textarea><input type="submit" value="Send"></form>
+
+### Technical Support
 
 Having trouble with Pages? [contact support](mailto:mkalkar@gmail.com) and we’ll help you sort it out.
