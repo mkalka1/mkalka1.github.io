@@ -30,7 +30,7 @@ Management / Technology professional with proven ability to lead Strategic Initi
 <form name ="input" method="POST" action="https://formspree.io/f/xoqrdkkv">
   <table>
     <tr>
-      <td width="30%">First Name:</td>
+      <td width="10%">First Name:</td>
       <td><input type="text" name="firstname"></td> 
     </tr>
     <tr>
@@ -42,7 +42,7 @@ Management / Technology professional with proven ability to lead Strategic Initi
       <td><input type="email" name="_replyto"></td> 
     </tr>    
     <tr>
-      <td valign="top">Message:</td>
+      <td style="vertical-align: top;">Message:</td>
       <td><textarea name="message"></textarea></td>  
     </tr>
     <tr>
