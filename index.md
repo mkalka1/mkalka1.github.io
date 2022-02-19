@@ -10,7 +10,7 @@ With my background in engineering, managing projects by profession and recent ex
 
 - [120 Years of Olympic History and Results - Exploratory Data Analysis](https://github.com/mkalka1/nextgen-portfolio/tree/main/120%20Years%20of%20Olympic%20History%20and%20Results%20-%20Exploratory%20Data%20Analysis)
 - [Airline Safety - Dashboard, Blog, and InfoGraphic - Data Visualization](https://github.com/mkalka1/nextgen-portfolio/tree/main/Airline%20Safety%20-%20Dashboard%2C%20Blog%2C%20and%20InfoGraphic%20-%20Data%20Visualization)
-- [Big Data Processing Framework - Hadoop in Data Science Projects](https://github.com/mkalka1/nextgen-portfolio/tree/main/Big%20Data%20Processing%20Framework%20-%20Hadoop%20in%20Data%20Science%20Projects)
+- [Big Data Processing Framework Hadoop - Research Paper](https://github.com/mkalka1/nextgen-portfolio/tree/main/Big%20Data%20Processing%20Framework%20-%20Hadoop%20in%20Data%20Science%20Projects)
 - [Big Data on Social Media - Performance, reliability, Scalability](https://github.com/mkalka1/nextgen-portfolio/tree/main/Big%20Data%20on%20Social%20Media%20-%20Performance%2C%20reliability%2C%20Scalability)
 - [Climate Change - Historical Average Temperatures / Future Projections](https://github.com/mkalka1/nextgen-portfolio/tree/main/Climate%20Change%20-%20Historical%20Average%20Temperatures%20and%20Future%20Projections)
 - [Consumer Reviews on Amazon.com - Data Mining](https://github.com/mkalka1/nextgen-portfolio/tree/main/Consumer%20Reviews%20on%20Amazon.com%20-%20Data%20Mining)
