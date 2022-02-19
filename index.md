@@ -30,44 +30,24 @@ Management / Technology professional with proven ability to lead Strategic Initi
 <form name ="input" method="POST" action="https://formspree.io/f/xoqrdkkv">
   <table>
     <tr>
-      <td>
-        First Name:
-      </td>
-      <td>
-         <input type="text" name="firstname">
-      </td> 
+      <td>First Name:</td>
+      <td><input type="text" name="firstname"></td> 
     </tr>
     <tr>
-      <td>
-        Last Name:
-      </td>
-      <td>
-         <input type="text" name="lastname">
-      </td> 
+      <td>Last Name:</td>
+      <td><input type="text" name="lastname"></td> 
     </tr>
     <tr>
-      <td>
-        Email:
-      </td>
-      <td>
-         <input type="email" name="_replyto">
-      </td> 
+      <td>Email:</td>
+      <td><input type="email" name="_replyto"></td> 
     </tr>    
     <tr>
-      <td valign="top">
-        Message:
-      </td>
-      <td>
-        <textarea name="message"></textarea>
-      </td>  
+      <td valign="top">Message:</td>
+      <td><textarea name="message"></textarea></td>  
     </tr>
     <tr>
-      <td>
-        &nbsp;
-      </td>      
-      <td>
-        <input type="submit" name="send" value="Send">
-      </td>
+      <td>&nbsp;</td>      
+      <td align="right"><input type="submit" name="send" value="Send"></td>
     </tr>    
   </table>
 </form>
