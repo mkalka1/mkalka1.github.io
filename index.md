@@ -30,10 +30,10 @@ Management / Technology professional with proven ability to lead Strategic Initi
 <head>
   <meta name="referrer" content="origin" />
 </head>
-<form action="http://formspree.io/mkalkar@gmail.com" method="post">
+<form name ="input" method="POST" action="https://formspree.io/mkalkar@gmail.com">
   Email: <input type="email" name="_replyto">
   <br>
-  Message: <textarea name="body"></textarea>
+  Message: <textarea name="message"></textarea>
   <input type="submit" value="Send">
 </form>
 
