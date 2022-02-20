@@ -8,6 +8,8 @@ With my background in engineering, management by profession and recently acquire
 
 ### Project Portfolio
 
+- [Airline Safety - Dashboard, Blog, and InfoGraphic - Data Visualization](https://github.com/mkalka1/nextgen-portfolio/tree/main/Airline%20Safety%20-%20Dashboard%2C%20Blog%2C%20and%20InfoGraphic%20-%20Data%20Visualization)
+        
  <table>
     <tr>
       <td width="125">&nbsp;</td>
