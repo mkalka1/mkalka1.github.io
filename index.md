@@ -8,6 +8,10 @@ With my background in engineering, management by profession and recently acquire
 
 ### Project Portfolio
 
+<style type="text/css">
+img { text-decoration: none } 
+</style>
+
 <table>
     <tr>
       <td>
