@@ -8,19 +8,81 @@ With my background in engineering, management by profession and recently acquire
 
 ### Project Portfolio
 
-- [120 Years of Olympic History and Results - Exploratory Data Analysis](https://github.com/mkalka1/nextgen-portfolio/tree/main/120%20Years%20of%20Olympic%20History%20and%20Results%20-%20Exploratory%20Data%20Analysis)
-- [Airline Safety - Dashboard, Blog, and InfoGraphic - Data Visualization](https://github.com/mkalka1/nextgen-portfolio/tree/main/Airline%20Safety%20-%20Dashboard%2C%20Blog%2C%20and%20InfoGraphic%20-%20Data%20Visualization)
-- [Big Data Processing Framework Hadoop - Research Paper](https://github.com/mkalka1/nextgen-portfolio/tree/main/Big%20Data%20Processing%20Framework%20-%20Hadoop%20in%20Data%20Science%20Projects)
-- [Big Data on Social Media - Performance, reliability, Scalability](https://github.com/mkalka1/nextgen-portfolio/tree/main/Big%20Data%20on%20Social%20Media%20-%20Performance%2C%20reliability%2C%20Scalability)
-- [Climate Change - Historical Average Temperatures / Future Projections](https://github.com/mkalka1/nextgen-portfolio/tree/main/Climate%20Change%20-%20Historical%20Average%20Temperatures%20and%20Future%20Projections)
-- [Consumer Reviews on Amazon.com - Data Mining](https://github.com/mkalka1/nextgen-portfolio/tree/main/Consumer%20Reviews%20on%20Amazon.com%20-%20Data%20Mining)
-- [Credit Card Fraud detection using Machine Learning Techniques](https://github.com/mkalka1/nextgen-portfolio/tree/main/Credit%20Card%20Fraud%20detection%20using%20Machine%20Learning%20Techniques)
-- [Crime Data Analysis and Prediction - City of Philadelphia](https://github.com/mkalka1/nextgen-portfolio/tree/main/Crime%20Data%20Analysis%20and%20Prediction%20-%20City%20of%20Philadelphia)
-- [IMDB Movie Reviews with Ratings - Text Mining](https://github.com/mkalka1/nextgen-portfolio/tree/main/IMDB%20Movie%20Reviews%20with%20Ratings%20-%20Text%20Mining)
-- [Microsoft Stock Price Prediction - Time Series Analysis](https://github.com/mkalka1/nextgen-portfolio/tree/main/Microsoft%20Stock%20Price%20Prediction%20-%20Time%20Series%20Analysis)
-- [My First Animated ggplot in R](https://github.com/mkalka1/nextgen-portfolio/tree/main/My%20First%20Animated%20ggplot%20in%20R)
-- [Process API to retrieve current Weather Data - Python Refresher](https://github.com/mkalka1/nextgen-portfolio/tree/main/Process%20API%20to%20retrieve%20current%20Weather%20Data%20-%20Python%20Refresher)
-
+ <table>
+    <tr>
+      <td width="125">&nbsp;</td>
+      <td style="vertical-align:top">
+        - [120 Years of Olympic History and Results - Exploratory Data Analysis](https://github.com/mkalka1/nextgen-portfolio/tree/main/120%20Years%20of%20Olympic%20History%20and%20Results%20-%20Exploratory%20Data%20Analysis)
+      </td> 
+    </tr>
+    <tr>
+      <td width="125">&nbsp;</td>
+      <td style="vertical-align:top">
+        - [Airline Safety - Dashboard, Blog, and InfoGraphic - Data Visualization](https://github.com/mkalka1/nextgen-portfolio/tree/main/Airline%20Safety%20-%20Dashboard%2C%20Blog%2C%20and%20InfoGraphic%20-%20Data%20Visualization)
+      </td> 
+    </tr>
+    <tr>
+      <td width="125">&nbsp;</td>
+      <td style="vertical-align:top">
+        - [Big Data Processing Framework Hadoop - Research Paper](https://github.com/mkalka1/nextgen-portfolio/tree/main/Big%20Data%20Processing%20Framework%20-%20Hadoop%20in%20Data%20Science%20Projects)
+      </td> 
+    </tr>
+    <tr>
+      <td width="125">&nbsp;</td>
+      <td style="vertical-align:top">
+        - [Big Data on Social Media - Performance, reliability, Scalability](https://github.com/mkalka1/nextgen-portfolio/tree/main/Big%20Data%20on%20Social%20Media%20-%20Performance%2C%20reliability%2C%20Scalability)
+      </td> 
+    </tr>
+    <tr>
+      <td width="125">&nbsp;</td>
+      <td style="vertical-align:top">
+        - [Climate Change - Historical Average Temperatures / Future Projections](https://github.com/mkalka1/nextgen-portfolio/tree/main/Climate%20Change%20-%20Historical%20Average%20Temperatures%20and%20Future%20Projections)
+      </td> 
+    </tr>
+    <tr>
+      <td width="125">&nbsp;</td>
+      <td style="vertical-align:top">
+        - [Consumer Reviews on Amazon.com - Data Mining](https://github.com/mkalka1/nextgen-portfolio/tree/main/Consumer%20Reviews%20on%20Amazon.com%20-%20Data%20Mining)
+      </td> 
+    </tr>
+    <tr>
+      <td width="125">&nbsp;</td>
+      <td style="vertical-align:top">
+        - [Credit Card Fraud detection using Machine Learning Techniques](https://github.com/mkalka1/nextgen-portfolio/tree/main/Credit%20Card%20Fraud%20detection%20using%20Machine%20Learning%20Techniques)
+      </td> 
+    </tr>
+    <tr>
+      <td width="125">&nbsp;</td>
+      <td style="vertical-align:top">
+        - [Crime Data Analysis and Prediction - City of Philadelphia](https://github.com/mkalka1/nextgen-portfolio/tree/main/Crime%20Data%20Analysis%20and%20Prediction%20-%20City%20of%20Philadelphia)
+      </td> 
+    </tr>
+    <tr>
+      <td width="125">&nbsp;</td>
+      <td style="vertical-align:top">
+        - [IMDB Movie Reviews with Ratings - Text Mining](https://github.com/mkalka1/nextgen-portfolio/tree/main/IMDB%20Movie%20Reviews%20with%20Ratings%20-%20Text%20Mining)
+      </td> 
+    </tr>
+    <tr>
+      <td width="125">&nbsp;</td>
+      <td style="vertical-align:top">
+        - [Microsoft Stock Price Prediction - Time Series Analysis](https://github.com/mkalka1/nextgen-portfolio/tree/main/Microsoft%20Stock%20Price%20Prediction%20-%20Time%20Series%20Analysis)
+      </td> 
+    </tr>
+    <tr>
+      <td width="125">&nbsp;</td>
+      <td style="vertical-align:top">
+        - [My First Animated ggplot in R](https://github.com/mkalka1/nextgen-portfolio/tree/main/My%20First%20Animated%20ggplot%20in%20R)
+      </td> 
+    </tr>
+    <tr>
+      <td width="125">&nbsp;</td>
+      <td style="vertical-align:top">
+        - [Process API to retrieve current Weather Data - Python Refresher](https://github.com/mkalka1/nextgen-portfolio/tree/main/Process%20API%20to%20retrieve%20current%20Weather%20Data%20-%20Python%20Refresher)
+      </td> 
+    </tr>  
+</table>
+      
 ### Professional Background
 
 Management / Technology professional with proven ability to lead strategic initiatives for about 20+ years within Financial/Payment Industry, Healthcare, Oil & Gas. Strong experience in enterprise-wide Transformation Programs using LEAN principles and by applying Project / Program Management, Process Improvement and Change Management skills. Effective Relationship Management, Conflict Management / Negotiation skills to achieve Corporate Profitability. Expertise in providing strategic direction, coaching / mentoring, and professional development of the team.
