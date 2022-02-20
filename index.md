@@ -12,13 +12,13 @@ With my background in engineering, management by profession and recently acquire
     <tr>
       <td width="25">&nbsp;</td>
       <td style="vertical-align:top">
-        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/120%20Years%20of%20Olympic%20History%20and%20Results%20-%20Exploratory%20Data%20Analysis" target="new">120 Years of Olympic History and Results - Exploratory Data Analysis</a>
+        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/120%20Years%20of%20Olympic%20History%20and%20Results%20-%20Exploratory%20Data%20Analysis" target="new">120 Years of Olympic History and Results - EDA</a>
       </td> 
     </tr>
     <tr>
       <td width="25">&nbsp;</td>
       <td style="vertical-align:top">
-        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Airline%20Safety%20-%20Dashboard%2C%20Blog%2C%20and%20InfoGraphic%20-%20Data%20Visualization" target="new">Airline Safety - Dashboard, Blog, and InfoGraphic - Data Visualization</a>
+        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Airline%20Safety%20-%20Dashboard%2C%20Blog%2C%20and%20InfoGraphic%20-%20Data%20Visualization" target="new">Airline Safety - Dashboard - Data Visualization</a>
       </td> 
     </tr>
     <tr>
@@ -36,7 +36,7 @@ With my background in engineering, management by profession and recently acquire
     <tr>
       <td width="25">&nbsp;</td>
       <td style="vertical-align:top">
-        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Climate%20Change%20-%20Historical%20Average%20Temperatures%20and%20Future%20Projections" target="new">Climate Change - Historical Average Temperatures / Future Projections</a>
+        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Climate%20Change%20-%20Historical%20Average%20Temperatures%20and%20Future%20Projections" target="new">Climate Change - Historical Avg Temperatures / Future Projections</a>
       </td> 
     </tr>
     <tr>
