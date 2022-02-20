@@ -10,78 +10,80 @@ With my background in engineering, management by profession and recently acquire
 
 ![Olympic_icon](https://user-images.githubusercontent.com/66152705/154864871-436232ea-82ef-46ed-bbbb-07edc39a67eb.png)
 
-<img src="https://user-images.githubusercontent.com/66152705/154864871-436232ea-82ef-46ed-bbbb-07edc39a67eb.png"></img> 
+
 
 
 <table>
     <tr>
-      <td width="25">![Olympic_icon](https://github.com/mkalka1/nextgen-portfolio/tree/main/z_Images/Olympic_icon.png)</td>
+      <td>
+          <img src="https://user-images.githubusercontent.com/66152705/154864871-436232ea-82ef-46ed-bbbb-07edc39a67eb.png" width="400px"></img>
+      </td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/120%20Years%20of%20Olympic%20History%20and%20Results%20-%20Exploratory%20Data%20Analysis" target="new">120 Years of Olympic History and Results - EDA</a>
       </td> 
     </tr>
     <tr>
-      <td width="25">&nbsp;</td>
+      <td>&nbsp;</td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Airline%20Safety%20-%20Dashboard%2C%20Blog%2C%20and%20InfoGraphic%20-%20Data%20Visualization" target="new">Airline Safety - Dashboard - Data Visualization</a>
       </td> 
     </tr>
     <tr>
-      <td width="25">&nbsp;</td>
+      <td>&nbsp;</td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Big%20Data%20Processing%20Framework%20-%20Hadoop%20in%20Data%20Science%20Projects" target="new">Big Data Processing Framework Hadoop - Research Paper</a>
       </td> 
     </tr>
     <tr>
-      <td width="25">&nbsp;</td>
+      <td>&nbsp;</td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Big%20Data%20on%20Social%20Media%20-%20Performance%2C%20reliability%2C%20Scalability" target="new">Big Data on Social Media - Performance, reliability, Scalability</a>
       </td> 
     </tr>
     <tr>
-      <td width="25">&nbsp;</td>
+      <td>&nbsp;</td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Climate%20Change%20-%20Historical%20Average%20Temperatures%20and%20Future%20Projections" target="new">Climate Change - Average Temperatures - Historical / Projections</a>
       </td> 
     </tr>
     <tr>
-      <td width="25">&nbsp;</td>
+      <td>&nbsp;</td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Consumer%20Reviews%20on%20Amazon.com%20-%20Data%20Mining" target="new">Consumer Reviews on Amazon.com - Data Mining</a>
       </td> 
     </tr>
     <tr>
-      <td width="25">&nbsp;</td>
+      <td>&nbsp;</td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Credit%20Card%20Fraud%20detection%20using%20Machine%20Learning%20Techniques" target="new">Credit Card Fraud detection using Machine Learning Techniques</a>
       </td> 
     </tr>
     <tr>
-      <td width="25">&nbsp;</td>
+      <td>&nbsp;</td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Crime%20Data%20Analysis%20and%20Prediction%20-%20City%20of%20Philadelphia" target="new">Crime Data Analysis and Prediction - City of Philadelphia</a>
       </td> 
     </tr>
     <tr>
-      <td width="25">&nbsp;</td>
+      <td>&nbsp;</td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/IMDB%20Movie%20Reviews%20with%20Ratings%20-%20Text%20Mining" target="new">IMDB Movie Reviews with Ratings - Text Mining</a>
       </td> 
     </tr>
     <tr>
-      <td width="25">&nbsp;</td>
+      <td>&nbsp;</td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Microsoft%20Stock%20Price%20Prediction%20-%20Time%20Series%20Analysis" target="new">Microsoft Stock Price Prediction - Time Series Analysis</a>
       </td> 
     </tr>
     <tr>
-      <td width="25">&nbsp;</td>
+      <td>&nbsp;</td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/My%20First%20Animated%20ggplot%20in%20R" target="new">My First Animated ggplot in R</a>
       </td> 
     </tr>
     <tr>
-      <td width="25">&nbsp;</td>
+      <td>&nbsp;</td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Process%20API%20to%20retrieve%20current%20Weather%20Data%20-%20Python%20Refresher" target="new">Process API to retrieve current Weather Data - Python Refresher</a>
       </td> 
