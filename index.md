@@ -8,7 +8,7 @@ With my background in engineering, management by profession and recently acquire
 
 ### Project Portfolio
 
-![Olympic_icon](https://github.com/mkalka1/nextgen-portfolio/tree/main/z_Images/Olympic_icon.png)
+![Olympic_icon](https://github.com/mkalka1/nextgen-portfolio/tree/main/z_Images/Olympic_icon.png?raw=true)
 
 <table>
     <tr>
