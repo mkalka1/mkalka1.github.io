@@ -26,7 +26,7 @@ With my background in engineering, management by profession and recently acquire
       </td> 
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td><img src="https://user-images.githubusercontent.com/66152705/154868886-aa30afed-73e5-43a0-b5c6-812fa37b7be5.png" width="40px" border="0" /></td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Big%20Data%20Processing%20Framework%20-%20Hadoop%20in%20Data%20Science%20Projects" target="new">Big Data Processing Framework Hadoop - Research Paper</a>
       </td> 
