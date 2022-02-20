@@ -31,15 +31,15 @@ Management / Technology professional with proven ability to lead strategic initi
   <table>
     <tr>
       <td width="175">First Name:</td>
-      <td><input type="text" name="firstname"></td> 
+      <td style="vertical-align:top"><input type="text" name="firstname"></td> 
     </tr>
     <tr>
       <td>Last Name:</td>
-      <td><input type="text" name="lastname"></td> 
+      <td style="vertical-align:top"><input type="text" name="lastname"></td> 
     </tr>
     <tr>
       <td>Email:</td>
-      <td><input type="email" name="_replyto"></td> 
+      <td style="vertical-align:top"><input type="email" name="_replyto"></td> 
     </tr>    
     <tr>
       <td style="vertical-align:top">Message:</td>
