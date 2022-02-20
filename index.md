@@ -39,7 +39,7 @@ Management / Technology professional with proven ability to lead strategic initi
     </tr>
     <tr>
       <td>Email:</td>
-      <td style="vertical-align:top"><input type="email" name="_replyto"></td> 
+      <td valign="top"><input type="email" name="_replyto"></td> 
     </tr>    
     <tr>
       <td style="vertical-align:top">Message:</td>
