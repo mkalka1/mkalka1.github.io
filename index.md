@@ -12,7 +12,7 @@ With my background in engineering, management by profession and recently acquire
     <tr>
       <td width="125">&nbsp;</td>
       <td style="vertical-align:top">
-        - [120 Years of Olympic History and Results - Exploratory Data Analysis](https://github.com/mkalka1/nextgen-portfolio/tree/main/120%20Years%20of%20Olympic%20History%20and%20Results%20-%20Exploratory%20Data%20Analysis)
+        [120 Years of Olympic History and Results - Exploratory Data Analysis](https://github.com/mkalka1/nextgen-portfolio/tree/main/120%20Years%20of%20Olympic%20History%20and%20Results%20-%20Exploratory%20Data%20Analysis)
       </td> 
     </tr>
     <tr>
