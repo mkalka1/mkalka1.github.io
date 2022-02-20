@@ -25,7 +25,9 @@ With my background in engineering, management by profession and recently acquire
       </td> 
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>
+         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Airline%20Safety%20-%20Dashboard%2C%20Blog%2C%20and%20InfoGraphic%20-%20Data%20Visualization" target="new"><img src="https://user-images.githubusercontent.com/66152705/154868558-d38049ea-5533-4cd1-aaf7-198c5445de2d.jpg" width="40px" border="0" />
+      </td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Airline%20Safety%20-%20Dashboard%2C%20Blog%2C%20and%20InfoGraphic%20-%20Data%20Visualization" target="new">Airline Safety - Dashboard - Data Visualization</a>
       </td> 
