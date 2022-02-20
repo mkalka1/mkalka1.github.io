@@ -8,8 +8,6 @@ With my background in engineering, management by profession and recently acquire
 
 ### Project Portfolio
 
-![Olympic_icon](https://user-images.githubusercontent.com/66152705/154864871-436232ea-82ef-46ed-bbbb-07edc39a67eb.png)
-
 <table>
     <tr>
       <td>
