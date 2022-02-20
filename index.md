@@ -1,12 +1,5 @@
 ## Welcome to nextgen Portfolio
 
-<b>
-MANISH KALKAR
-Richmond TX 77407. PHONE: 732-666-5112. EMAIL: mkalkar@gmail.com<br>
-BS – Engineering, MBA – Marketing/General Management, MS – Data Science
-Certified SAFe 4 Practitioner
-</b>
-
 ### About me
 
 Currently located about 25 miles southwest of Houston, TX, I work for Discover Financial Services, company that primarily known for the Discover Card and its expansion into Debit Network (PULSE), Consumer Banking, Home Loans and Student Loans. While managing enterprise wide programs to make difference within Payment Industry, we deal with the transactional data on the every day basis. This is what motivated me to explore world of Data Science and Artificial Intelligence.
@@ -18,7 +11,7 @@ With my background in engineering, management by profession and recently acquire
 <table>
     <tr>
       <td>
-          <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/120%20Years%20of%20Olympic%20History%20and%20Results%20-%20Exploratory%20Data%20Analysis" style="border:0 target="new"><img src="https://user-images.githubusercontent.com/66152705/154864871-436232ea-82ef-46ed-bbbb-07edc39a67eb.png" width="40px" border="0" /></a>
+          <img src="https://user-images.githubusercontent.com/66152705/154864871-436232ea-82ef-46ed-bbbb-07edc39a67eb.png" width="40px" border="0" />
       </td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/120%20Years%20of%20Olympic%20History%20and%20Results%20-%20Exploratory%20Data%20Analysis" target="new">120 Years of Olympic History and Results - EDA</a>
@@ -26,7 +19,7 @@ With my background in engineering, management by profession and recently acquire
     </tr>
     <tr>
       <td>
-         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Airline%20Safety%20-%20Dashboard%2C%20Blog%2C%20and%20InfoGraphic%20-%20Data%20Visualization" target="new"><img src="https://user-images.githubusercontent.com/66152705/154868558-d38049ea-5533-4cd1-aaf7-198c5445de2d.jpg" width="40px" border="0" />
+         <img src="https://user-images.githubusercontent.com/66152705/154868558-d38049ea-5533-4cd1-aaf7-198c5445de2d.jpg" width="40px" border="0" />
       </td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Airline%20Safety%20-%20Dashboard%2C%20Blog%2C%20and%20InfoGraphic%20-%20Data%20Visualization" target="new">Airline Safety - Dashboard - Data Visualization</a>
