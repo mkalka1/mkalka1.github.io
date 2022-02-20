@@ -1,5 +1,8 @@
 ## Welcome to nextgen Portfolio
 
+<b>MANISH KALKAR</b> - RICHMOND TX 77407 | PHONE: 732-666-5112 | EMAIL: mkalkar@gmail.com
+BS – Engineering | MBA – Marketing/General Management | Pursuing MS – Data Science | Certified SAFe 4 Practitioner
+
 ### About me
 
 Currently located about 25 miles southwest of Houston, TX, I work for Discover Financial Services, company that primarily known for the Discover Card and its expansion into Debit Network (PULSE), Consumer Banking, Home Loans and Student Loans. While managing enterprise wide programs to make difference within Payment Industry, we deal with the transactional data on the every day basis. This is what motivated me to explore world of Data Science and Artificial Intelligence.
