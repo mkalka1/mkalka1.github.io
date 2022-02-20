@@ -10,7 +10,7 @@ With my background in engineering, management by profession and recently acquire
 
 <table>
     <tr>
-      <td width="25">![Olympic_icon](https://user-images.githubusercontent.com/66152705/154864412-6a4acfdd-5f06-44ac-80bc-cf7e641dcce8.png)</td>
+      <td width="25">![Olympic_icon](https://github.com/mkalka1/nextgen-portfolio/tree/main/z_Images/Olympic_icon.png)</td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/120%20Years%20of%20Olympic%20History%20and%20Results%20-%20Exploratory%20Data%20Analysis" target="new">120 Years of Olympic History and Results - EDA</a>
       </td> 
