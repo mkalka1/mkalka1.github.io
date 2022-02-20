@@ -10,6 +10,8 @@ With my background in engineering, management by profession and recently acquire
 
 ![Olympic_icon](https://user-images.githubusercontent.com/66152705/154864871-436232ea-82ef-46ed-bbbb-07edc39a67eb.png)
 
+<img src="https://user-images.githubusercontent.com/66152705/154864871-436232ea-82ef-46ed-bbbb-07edc39a67eb.png"></img> 
+
 
 <table>
     <tr>
