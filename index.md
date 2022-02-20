@@ -36,7 +36,7 @@ With my background in engineering, management by profession and recently acquire
     <tr>
       <td width="25">&nbsp;</td>
       <td style="vertical-align:top">
-        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Climate%20Change%20-%20Historical%20Average%20Temperatures%20and%20Future%20Projections" target="new">Climate Change - Average Temperatures - Historical and Projections</a>
+        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Climate%20Change%20-%20Historical%20Average%20Temperatures%20and%20Future%20Projections" target="new">Climate Change - Average Temperatures - Historical / Projections</a>
       </td> 
     </tr>
     <tr>
