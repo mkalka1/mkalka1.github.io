@@ -1,7 +1,8 @@
 ## Welcome to nextgen Portfolio
 
-<b>MANISH KALKAR</b> - RICHMOND TX 77407 | PHONE: 732-666-5112 | EMAIL: mkalkar@gmail.com
-BS – Engineering | MBA – Marketing/General Management | Pursuing MS – Data Science | Certified SAFe 4 Practitioner
+<b>MANISH KALKAR</b><br>
+RICHMOND TX 77407. PHONE: 732-666-5112. EMAIL: mkalkar@gmail.com<br>
+BS – Engineering, MBA – Marketing/General Management, MS – Data Science, Certified SAFe 4 Practitioner
 
 ### About me
 
@@ -14,7 +15,7 @@ With my background in engineering, management by profession and recently acquire
 <table>
     <tr>
       <td>
-          <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/120%20Years%20of%20Olympic%20History%20and%20Results%20-%20Exploratory%20Data%20Analysis" style="text-decoration: none" target="new"><img src="https://user-images.githubusercontent.com/66152705/154864871-436232ea-82ef-46ed-bbbb-07edc39a67eb.png" width="40px" border="0" /></a>
+          <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/120%20Years%20of%20Olympic%20History%20and%20Results%20-%20Exploratory%20Data%20Analysis" style="border:0 target="new"><img src="https://user-images.githubusercontent.com/66152705/154864871-436232ea-82ef-46ed-bbbb-07edc39a67eb.png" width="40px" border="0" /></a>
       </td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/120%20Years%20of%20Olympic%20History%20and%20Results%20-%20Exploratory%20Data%20Analysis" target="new">120 Years of Olympic History and Results - EDA</a>
