@@ -1,9 +1,11 @@
 ## Welcome to nextgen Portfolio
 
-#### MANISH KALKAR
-#### Richmond TX 77407. PHONE: 732-666-5112. EMAIL: mkalkar@gmail.com<br>
-#### BS – Engineering, MBA – Marketing/General Management, MS – Data Science
-#### Certified SAFe 4 Practitioner
+<b>
+MANISH KALKAR
+Richmond TX 77407. PHONE: 732-666-5112. EMAIL: mkalkar@gmail.com<br>
+BS – Engineering, MBA – Marketing/General Management, MS – Data Science
+Certified SAFe 4 Practitioner
+</b>
 
 ### About me
 
