@@ -2,7 +2,7 @@
 
 ### About me
 
-<strong>Manish Kalkar</strong>\n
+<strong>Manish Kalkar</strong><br>
 BS – Engineering | MBA – Marketing | MS – Data Science
 Certified SAFe 4 Practitioner
 
