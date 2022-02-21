@@ -34,15 +34,15 @@ With my background in engineering, management by profession and recently acquire
       </td> 
     </tr>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/66152705/154869509-32f09955-95d7-45b5-95b8-f8afeb9a3f50.jpg" width="40px" border="0" /></td>
+      <td>
+          <img src="https://user-images.githubusercontent.com/66152705/154869509-32f09955-95d7-45b5-95b8-f8afeb9a3f50.jpg" width="40px" border="0" />
+      </td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Big%20Data%20on%20Social%20Media%20-%20Performance%2C%20reliability%2C%20Scalability" target="new">Big Data on Social Media - Performance, reliability, Scalability</a>
       </td> 
     </tr>
     <tr>
-      <td>
-          &nbsp;
-      </td>
+      <td>&nbsp;</td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Climate%20Change%20-%20Historical%20Average%20Temperatures%20and%20Future%20Projections" target="new">Climate Change - Average Temperatures - Historical / Projections</a>
       </td> 
