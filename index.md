@@ -84,7 +84,7 @@ With my background in engineering, management by profession and recently acquire
       </td> 
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td><img src="https://user-images.githubusercontent.com/66152705/154872191-bef08f3c-15f0-4c6c-8281-1506faa7963a.png" width="40px" border="0" /></td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Process%20API%20to%20retrieve%20current%20Weather%20Data%20-%20Python%20Refresher" target="new">Process API to retrieve current Weather Data - Python Refresher</a>
       </td> 
