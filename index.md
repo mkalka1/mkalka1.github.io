@@ -12,7 +12,7 @@ Currently located about 25 miles southwest of Houston, TX, I work for Discover F
 
 <table>
     <tr>
-        <td width="125"><B>Category</B></td>
+        <td width="125"><strong>Category</strong></td>
         <td style="vertical-align:top"><B>Skill</B></td> 
     </tr>
     <tr>
