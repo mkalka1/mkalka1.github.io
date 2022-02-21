@@ -54,7 +54,7 @@ With my background in engineering, management by profession and recently acquire
       </td> 
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td><img src="https://user-images.githubusercontent.com/66152705/154870866-23440875-d5ca-4d10-9c72-ad0a9e61988f.jpg" width="40px" border="0" /></td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Credit%20Card%20Fraud%20detection%20using%20Machine%20Learning%20Techniques" target="new">Credit Card Fraud detection using Machine Learning Techniques</a>
       </td> 
