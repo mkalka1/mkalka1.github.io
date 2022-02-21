@@ -2,20 +2,21 @@
 
 ### About me
 
-Manish Kalkar
-BS – Engineering | MBA – Marketing/General Management | Pursuing MS – Data Science | Certified SAFe 4 Practitioner
+#### Manish Kalkar
+BS – Engineering | MBA – Marketing/General Management | MS – Data Science
+Certified SAFe 4 Practitioner
 
 Currently located about 25 miles southwest of Houston, TX, I work for Discover Financial Services, company that primarily known for the Discover Card and its expansion into Debit Network (PULSE), Consumer Banking, Home Loans and Student Loans. While managing enterprise wide programs to make difference within Payment Industry, we deal with the transactional data on the every day basis. This is what motivated me to explore world of Data Science and Artificial Intelligence.
 
-##### Technical Skills
+#### Technical Skills
 
 <table>
     <tr>
-      <td width="125">Category</td>
-      <td style="vertical-align:top">Skill</td> 
+        <td width="125"><B>Category</B></td>
+        <td style="vertical-align:top"><B>Skill</B></td> 
     </tr>
     <tr>
-      <td width="125">Big Data ecosystems:</td>
+      <td width="175">Big Data ecosystems:</td>
       <td style="vertical-align:top">Hadoop, Splunk, NoSQL, MangoDB</td> 
     </tr>
     <tr>
@@ -28,7 +29,7 @@ Currently located about 25 miles southwest of Houston, TX, I work for Discover F
     </tr>    
     <tr>
       <td style="vertical-align:top">Programming</td>
-      <td><textarea name="message">SQL, SAS, Python, R, Shell</td>  
+      <td>SQL, SAS, Python, R, Shell</td>  
     </tr>
     <tr>
       <td>Machine Learning Algorithms</td>      
