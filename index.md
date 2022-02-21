@@ -48,7 +48,7 @@ With my background in engineering, management by profession and recently acquire
       </td> 
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td><img src="https://user-images.githubusercontent.com/66152705/154870752-514e99fd-f421-4846-aedb-497343aab4be.png" width="40px" border="0" /></td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Consumer%20Reviews%20on%20Amazon.com%20-%20Data%20Mining" target="new">Consumer Reviews on Amazon.com - Data Mining</a>
       </td> 
