@@ -42,7 +42,7 @@ With my background in engineering, management by profession and recently acquire
       </td> 
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td><img src="https://user-images.githubusercontent.com/66152705/154870572-4da84c9d-3dc9-44fa-a812-6ab9c3b5e7d7.png" width="40px" border="0" /></td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Climate%20Change%20-%20Historical%20Average%20Temperatures%20and%20Future%20Projections" target="new">Climate Change - Average Temperatures - Historical / Projections</a>
       </td> 
