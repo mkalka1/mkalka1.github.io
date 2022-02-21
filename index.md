@@ -82,7 +82,7 @@ With my background in engineering, management by profession and recently acquire
     </tr>
     <tr>
       <td style="vertical-align:middle">
-         <img src="https://user-images.githubusercontent.com/66152705/154869509-32f09955-95d7-45b5-95b8-f8afeb9a3f50.jpg" height="35px" width="40px" border="0" />
+         <img src="https://user-images.githubusercontent.com/66152705/154869509-32f09955-95d7-45b5-95b8-f8afeb9a3f50.jpg" height="30px" width="40px" border="0" />
       </td>
       <td style="vertical-align:middle">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Big%20Data%20on%20Social%20Media%20-%20Performance%2C%20reliability%2C%20Scalability" target="new">Big Data on Social Media - Performance, reliability, Scalability</a>
@@ -130,7 +130,7 @@ With my background in engineering, management by profession and recently acquire
     </tr>
     <tr>
       <td style="vertical-align:middle">
-          <img src="https://user-images.githubusercontent.com/66152705/154871869-4c97fc84-221d-42f5-aa49-c65a5b38c371.jpg" width="40px" border="0" />
+         <img src="https://user-images.githubusercontent.com/66152705/154871869-4c97fc84-221d-42f5-aa49-c65a5b38c371.jpg" height="30px" width="40px" border="0" />
       </td>
       <td style="vertical-align:middle">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Microsoft%20Stock%20Price%20Prediction%20-%20Time%20Series%20Analysis" target="new">Microsoft Stock Price Prediction - Time Series Analysis</a>
