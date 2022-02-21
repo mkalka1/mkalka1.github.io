@@ -32,7 +32,7 @@ Currently located about 25 miles southwest of Houston, TX, I work for Discover F
     </tr>
     <tr>
       <td>Machine Learning Algorithms</td>      
-      <td>Linear and Logistic Regression, Decision Tree, Naive Bayes kNN, K-Means, Random Forst, Neural Networks with Keras, XGB Classifier, ARIMA, LSTM</td>
+      <td>Linear and Logistic Regression, Decision Tree, Naive Bayes kNN, K-Means, Random Forst, Neural Networks, XGB Classifier, ARIMA, LSTM</td>
     </tr>
     <tr>
       <td>Data Visualization</td>      
