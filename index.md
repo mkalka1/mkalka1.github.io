@@ -16,11 +16,11 @@ Currently located about 25 miles southwest of Houston, TX, I work for Discover F
         <td style="vertical-align:top"><strong>Skill</strong></td> 
     </tr>
     <tr>
-      <td width="175">Big Data ecosystems:</td>
+      <td width="175">Big Data ecosystems</td>
       <td style="vertical-align:top">Hadoop, Splunk, NoSQL, MangoDB</td> 
     </tr>
     <tr>
-      <td>Messaging Systems:</td>
+      <td>Messaging Systems</td>
       <td style="vertical-align:top">MQ, Kafka</td> 
     </tr>
     <tr>
@@ -53,6 +53,8 @@ Currently located about 25 miles southwest of Houston, TX, I work for Discover F
 
 With my background in engineering, management by profession and recently acquired expertise in the area of machine learning, I am excited to share my next generation portfolio for you all to explore the power of predictive analytics.
 
+- <img src="https://user-images.githubusercontent.com/66152705/154864871-436232ea-82ef-46ed-bbbb-07edc39a67eb.png" width="40px" border="0" />&nbsp;<a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/120%20Years%20of%20Olympic%20History%20and%20Results%20-%20Exploratory%20Data%20Analysis" target="new">120 Years of Olympic History and Results - EDA</a>
+
 <table>
     <tr>
       <td style="vertical-align:middle">
@@ -67,7 +69,7 @@ With my background in engineering, management by profession and recently acquire
          <img src="https://user-images.githubusercontent.com/66152705/154868558-d38049ea-5533-4cd1-aaf7-198c5445de2d.jpg" width="40px" border="0" />
       </td>
       <td style="vertical-align:middle">
-        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Airline%20Safety%20-%20Dashboard%2C%20Blog%2C%20and%20InfoGraphic%20-%20Data%20Visualization" target="new">Airline Safety - Dashboard - Data Visualization</a>
+        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Airline%20Safety%20-%20Dashboard%2C%20Blog%2C%20and%20InfoGraphic%20-%20Data%20Visualization" target="new">Airline Safety - Tableau Dashboard - Data Visualization</a>
       </td> 
     </tr>
     <tr>
@@ -75,12 +77,12 @@ With my background in engineering, management by profession and recently acquire
           <img src="https://user-images.githubusercontent.com/66152705/154868886-aa30afed-73e5-43a0-b5c6-812fa37b7be5.png" width="40px" border="0" />
       </td>
       <td style="vertical-align:middle">
-        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Big%20Data%20Processing%20Framework%20-%20Hadoop%20in%20Data%20Science%20Projects" target="new">Big Data Processing Framework Hadoop - Research Paper</a>
+        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Big%20Data%20Processing%20Framework%20-%20Hadoop%20in%20Data%20Science%20Projects" target="new">Big Data Processing Framework - Hadoop - Research Paper</a>
       </td> 
     </tr>
     <tr>
       <td style="vertical-align:middle">
-          <img src="https://user-images.githubusercontent.com/66152705/154869509-32f09955-95d7-45b5-95b8-f8afeb9a3f50.jpg" width="40px" border="0" />
+         <img src="https://user-images.githubusercontent.com/66152705/154869509-32f09955-95d7-45b5-95b8-f8afeb9a3f50.jpg" height="40px" width="40px" border="0" />
       </td>
       <td style="vertical-align:middle">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Big%20Data%20on%20Social%20Media%20-%20Performance%2C%20reliability%2C%20Scalability" target="new">Big Data on Social Media - Performance, reliability, Scalability</a>
