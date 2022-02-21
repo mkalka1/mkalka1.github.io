@@ -66,7 +66,7 @@ With my background in engineering, management by profession and recently acquire
       </td> 
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td><img src="https://user-images.githubusercontent.com/66152705/154871133-ba0ba779-a3bf-4094-8763-97051b6d43bf.png" width="40px" border="0" /></td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/IMDB%20Movie%20Reviews%20with%20Ratings%20-%20Text%20Mining" target="new">IMDB Movie Reviews with Ratings - Text Mining</a>
       </td> 
