@@ -53,8 +53,6 @@ Currently located about 25 miles southwest of Houston, TX, I work for Discover F
 
 With my background in engineering, management by profession and recently acquired expertise in the area of machine learning, I am excited to share my next generation portfolio for you all to explore the power of predictive analytics.
 
-- <img src="https://user-images.githubusercontent.com/66152705/154864871-436232ea-82ef-46ed-bbbb-07edc39a67eb.png" width="40px" style="text-decoration:none" />&nbsp;<a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/120%20Years%20of%20Olympic%20History%20and%20Results%20-%20Exploratory%20Data%20Analysis" target="new">120 Years of Olympic History and Results - EDA</a>
-
 <table>
     <tr>
       <td style="vertical-align:middle">
@@ -138,7 +136,7 @@ With my background in engineering, management by profession and recently acquire
     </tr>
     <tr>
       <td style="vertical-align:middle">
-          <img src="https://user-images.githubusercontent.com/66152705/154872017-cecc7258-d374-4c59-83b9-b061f896aa00.jpg" width="40px" border="0" />
+         <img src="https://user-images.githubusercontent.com/66152705/154872017-cecc7258-d374-4c59-83b9-b061f896aa00.jpg" height="30px" width="40px" border="0" />
       </td>
       <td style="vertical-align:middle">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/My%20First%20Animated%20ggplot%20in%20R" target="new">My First Animated ggplot in R</a>
@@ -146,7 +144,7 @@ With my background in engineering, management by profession and recently acquire
     </tr>
     <tr>
       <td style="vertical-align:middle">
-          <img src="https://user-images.githubusercontent.com/66152705/154872191-bef08f3c-15f0-4c6c-8281-1506faa7963a.png" width="40px" border="0" />
+         <img src="https://user-images.githubusercontent.com/66152705/154872191-bef08f3c-15f0-4c6c-8281-1506faa7963a.png" height="30px" width="40px" border="0" />
       </td>
       <td style="vertical-align:middle">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Process%20API%20to%20retrieve%20current%20Weather%20Data%20-%20Python%20Refresher" target="new">Process API in Python - Current Weather Data</a>
