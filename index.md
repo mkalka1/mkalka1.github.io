@@ -72,7 +72,7 @@ With my background in engineering, management by profession and recently acquire
       </td> 
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td><img src="https://user-images.githubusercontent.com/66152705/154871869-4c97fc84-221d-42f5-aa49-c65a5b38c371.jpg" width="40px" border="0" /></td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Microsoft%20Stock%20Price%20Prediction%20-%20Time%20Series%20Analysis" target="new">Microsoft Stock Price Prediction - Time Series Analysis</a>
       </td> 
