@@ -60,7 +60,7 @@ With my background in engineering, management by profession and recently acquire
       </td> 
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td><img src="https://user-images.githubusercontent.com/66152705/154871040-4d2ef679-bb75-4558-abf4-558ab0fa2b32.png" width="40px" border="0" /></td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Crime%20Data%20Analysis%20and%20Prediction%20-%20City%20of%20Philadelphia" target="new">Crime Data Analysis and Prediction - City of Philadelphia</a>
       </td> 
