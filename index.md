@@ -78,7 +78,7 @@ With my background in engineering, management by profession and recently acquire
       </td> 
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td><img src="https://user-images.githubusercontent.com/66152705/154872017-cecc7258-d374-4c59-83b9-b061f896aa00.jpg" width="40px" border="0" /></td>
       <td style="vertical-align:top">
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/My%20First%20Animated%20ggplot%20in%20R" target="new">My First Animated ggplot in R</a>
       </td> 
