@@ -46,7 +46,7 @@ With my background in engineering, management by profession and recently acquire
           <img src="https://user-images.githubusercontent.com/66152705/154870572-4da84c9d-3dc9-44fa-a812-6ab9c3b5e7d7.png" width="40px" border="0" />
       </td>
       <td style="vertical-align:middle">
-        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Climate%20Change%20-%20Historical%20Average%20Temperatures%20and%20Future%20Projections" target="new">Climate Change - Average Temperatures - Historical / Projections</a>
+        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Climate%20Change%20-%20Historical%20Average%20Temperatures%20and%20Future%20Projections" target="new">Climate Change - Avg Temperatures - Historical/Projections</a>
       </td> 
     </tr>
     <tr>
@@ -62,7 +62,7 @@ With my background in engineering, management by profession and recently acquire
           <img src="https://user-images.githubusercontent.com/66152705/154870866-23440875-d5ca-4d10-9c72-ad0a9e61988f.jpg" width="40px" border="0" />
       </td>
       <td style="vertical-align:middle">
-        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Credit%20Card%20Fraud%20detection%20using%20Machine%20Learning%20Techniques" target="new">Credit Card Fraud detection using Machine Learning Techniques</a>
+        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Credit%20Card%20Fraud%20detection%20using%20Machine%20Learning%20Techniques" target="new">Credit Card Fraud detection - Machine Learning Techniques</a>
       </td> 
     </tr>
     <tr>
@@ -102,7 +102,7 @@ With my background in engineering, management by profession and recently acquire
           <img src="https://user-images.githubusercontent.com/66152705/154872191-bef08f3c-15f0-4c6c-8281-1506faa7963a.png" width="40px" border="0" />
       </td>
       <td style="vertical-align:middle">
-        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Process%20API%20to%20retrieve%20current%20Weather%20Data%20-%20Python%20Refresher" target="new">Process API to retrieve current Weather Data - Python Refresher</a>
+        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Process%20API%20to%20retrieve%20current%20Weather%20Data%20-%20Python%20Refresher" target="new">Process API in Python - Current Weather Data</a>
       </td> 
     </tr>
 </table>
