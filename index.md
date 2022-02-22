@@ -23,7 +23,7 @@ Currently located about 25 miles southwest of Houston, TX, I work for Discover F
       <td style="vertical-align:top">MQ, Kafka</td> 
     </tr>
     <tr>
-      <td>Data Sources:</td>
+      <td>Data Sources</td>
       <td valign="top">Teradata, APIs, File System</td> 
     </tr>    
     <tr>
