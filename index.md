@@ -52,6 +52,7 @@ Currently located about 25 miles southwest of Houston, TX, I work for Discover F
 
 With my background in engineering, management by profession and recently acquired expertise in the area of machine learning, I am excited to share my next generation portfolio for you all to explore the power of predictive analytics.
 
+
 <table>
     <tr>
       <td style="vertical-align:middle">
