@@ -5,7 +5,7 @@
 <strong>Manish Kalkar</strong><br>
 Bachelors – Engineering | MBA – Marketing | MS – Data Science<br>
 
-Currently located about 25 miles southwest of Houston, TX, I work for Discover Financial Services, company that primarily known for the Discover Card and its expansion into Debit Network (PULSE), Consumer Banking, Home Loans and Student Loans. While managing enterprise wide programs to make difference within Payment Industry, we deal with the transactional data on the every day basis. This is what motivated me to explore world of Data Science and Artificial Intelligence.
+Currently located about 25 miles southwest of Houston, TX, I work for Discover Financial Services, company that is primarily known for the Discover Card and its expansion into Debit Network (PULSE), Consumer Banking, Home Loans and Student Loans. While managing enterprise wide programs to make difference within Payment Industry, we deal with the transactional data on the every day basis. This is what motivated me to explore world of Data Science and Artificial Intelligence.
 
 <strong>Technical Skills</strong>
 
@@ -32,7 +32,7 @@ Currently located about 25 miles southwest of Houston, TX, I work for Discover F
     </tr>
     <tr>
       <td>Machine Learning Algorithms</td>      
-      <td>Linear and Logistic Regression, Decision Tree, Naive Bayes kNN, K-Means, Random Forst, Neural Networks, XGB Classifier, ARIMA, LSTM</td>
+      <td>Linear and Logistic Regression, Decision Tree, Naive Bayes, kNN, K-Means, Random Forest, Neural Networks, XGB Classifier, ARIMA, LSTM</td>
     </tr>
     <tr>
       <td>Data Visualization</td>      
@@ -158,23 +158,23 @@ With my background in engineering, management by profession and recently acquire
   <table>
     <tr>
       <td width="125">First Name:</td>
-      <td style="vertical-align:top"><input type="text" name="firstname"></td> 
+      <td style="vertical-align:middle"><input type="text" name="firstname"></td> 
     </tr>
     <tr>
       <td>Last Name:</td>
-      <td style="vertical-align:top"><input type="text" name="lastname"></td> 
+      <td style="vertical-align:middle"><input type="text" name="lastname"></td> 
     </tr>
     <tr>
       <td>Email:</td>
-      <td valign="top"><input type="email" name="_replyto"></td> 
+      <td style="vertical-align:middle"><input type="email" name="_replyto"></td> 
     </tr>    
     <tr>
       <td style="vertical-align:top">Message:</td>
-      <td><textarea name="message"></textarea></td>  
+      <td style="vertical-align:middle"><textarea name="message"></textarea></td>  
     </tr>
     <tr>
       <td>&nbsp;</td>      
-      <td><input type="submit" name="send" value="Send"></td>
+      <td style="vertical-align:middle"><input type="submit" name="send" value="Send"></td>
     </tr>    
   </table>
 </form>
