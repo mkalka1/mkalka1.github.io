@@ -151,7 +151,7 @@ With my background in engineering, management by profession and recently acquire
       </td> 
     </tr>
 </table>
-<em>Image Source: ©2022 Google</em>
+<em>Image Source: © 2022 Google</em>
 
 ### Contact
 
