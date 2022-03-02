@@ -80,14 +80,6 @@ With my background in engineering, management by profession and recently acquire
     </tr>
     <tr>
       <td style="vertical-align:middle">
-         <img src="https://user-images.githubusercontent.com/66152705/154869509-32f09955-95d7-45b5-95b8-f8afeb9a3f50.jpg" height="60px" width="60px" border="0" />
-      </td>
-      <td style="vertical-align:middle">
-        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Big%20Data%20on%20Social%20Media%20-%20Performance%2C%20reliability%2C%20Scalability" target="new">Social Media Big Data - Performance-Reliability-Scalability</a>
-      </td> 
-    </tr>
-    <tr>
-      <td style="vertical-align:middle">
          <img src="https://user-images.githubusercontent.com/66152705/154870572-4da84c9d-3dc9-44fa-a812-6ab9c3b5e7d7.png" height="60px" width="60px" border="0" />
       </td>
       <td style="vertical-align:middle">
@@ -150,8 +142,16 @@ With my background in engineering, management by profession and recently acquire
         <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Process%20API%20to%20retrieve%20current%20Weather%20Data%20-%20Python%20Refresher" target="new">Process API in Python - Current Weather Data</a>
       </td> 
     </tr>
+    <tr>
+      <td style="vertical-align:middle">
+         <img src="https://user-images.githubusercontent.com/66152705/154869509-32f09955-95d7-45b5-95b8-f8afeb9a3f50.jpg" height="50px" width="60px" border="0" />
+      </td>
+      <td style="vertical-align:middle">
+        <a href="https://github.com/mkalka1/nextgen-portfolio/tree/main/Big%20Data%20on%20Social%20Media%20-%20Performance%2C%20reliability%2C%20Scalability" target="new">Social Media Big Data - Performance-Reliability-Scalability</a>
+      </td> 
+    </tr>
 </table>
-Image Source: ©2022 Google
+<em>Image Source: ©2022 Google</em>
 
 ### Contact
 
