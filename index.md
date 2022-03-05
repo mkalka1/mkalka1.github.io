@@ -183,4 +183,4 @@ With my background in engineering, management by profession and recently acquire
 
 ### Technical Support
 
-Having trouble with Pages? [contact support](mailto:mkalkar@gmail.com) and we will help you sort it out.
+Having trouble with Pages? [contact support](mailto:mkalkar@gmail.com) team will help you sort it out.
