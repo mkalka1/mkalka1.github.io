@@ -5,7 +5,7 @@
 <strong>Manish Kalkar</strong><br>
 Bachelors – Engineering | MBA – Marketing | MS – Data Science<br>
 
-Currently located about 25 miles southwest of Houston, TX, I work for Discover Financial Services, company that is primarily known for the Discover Card, Debit Network (PULSE), Consumer Banking, Home Loans and Student Loans. While managing enterprise wide programs to make difference within Payment Industry, we deal with the transactional data on the every day basis. This is what motivated me to explore world of Data Science and Artificial Intelligence.
+Currently located about 25 miles southwest of Houston, TX, I work for Discover Financial Services, company that is primarily known for the Discover Card, Debit Network (PULSE), Consumer Banking, Home Loans and Student Loans. While managing enterprise wide programs to make a difference within Payment Industry, we deal with the transactional data on the every day basis. This is what motivated me to explore world of Data Science and Artificial Intelligence.
 
 <strong>Technical Skills</strong>
 
@@ -183,4 +183,4 @@ With my background in engineering, management by profession and recently acquire
 
 ### Technical Support
 
-Having trouble with Pages? [contact support](mailto:mkalkar@gmail.com) and we’ll help you sort it out.
+Having trouble with Pages? [contact support](mailto:mkalkar@gmail.com) and we will help you sort it out.
